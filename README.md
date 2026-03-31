@@ -1,4 +1,4 @@
-# Diffusions-LLM-DLLM-
+# Diffusions-LLM-DLLM
 
 Interactive **text diffusion** demo and notes on how diffusion models work—in **images, audio, video, molecules**, and **language**—and how **diffusion LLMs (dLLMs)** differ from ordinary left-to-right (autoregressive) large language models.
 
